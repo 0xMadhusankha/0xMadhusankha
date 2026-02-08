@@ -3,13 +3,16 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=0xMadhusankha&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMadhusankha&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xMadhusankha&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I’m a **Forward-Thinking Security Researcher** and developer pursuing my BICT at the **South Eastern University of Sri Lanka**. I specialize in bridging the gap between secure development and offensive security.
+I’m a **Forward-Thinking Security Researcher** pursuing my BICT at the **South Eastern University of Sri Lanka**. I specialize in bridging the gap between secure development and offensive security.
 
 * **🛡️ Offensive:** Red Teaming (**CRTA Certified**), Ethical Hacking, Malware Analysis.
 * **🛡️ Defensive:** SOC, SIEM, Digital Forensics, Honeypot Deployment.
