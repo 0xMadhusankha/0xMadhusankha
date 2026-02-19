@@ -9,10 +9,9 @@
 ---
 
 ### 🚀 About Me
-I’m a **Forward-Thinking Security Researcher** and Developer pursuing my BICT at the **South Eastern University of Sri Lanka**. I bridge the gap between secure code and offensive security. From refactoring minimalist portfolios in **Next.js** to hunting threats in **Honeypots**, I’m all about building—and testing—the digital frontier.
-
+I’m a **Forward-Thinking Security Researcher** and Developer pursuing my BICT at the **South Eastern University of Sri Lanka**. I bridge the gap between secure code and offensive security.
 * **🛡️ Offensive:** Red Teaming (**CRTA Certified**), Ethical Hacking, Malware Analysis.
-* **🛡️ Defensive:** SOC, SIEM, Digital Forensics, Honeypot Deployment.
+* **🛡️ Defensive:** SOC, SIEM, Digital Forensics, CTF Deployment.
 * **💻 Innovation:** Integrating AI with Security & building secure SaaS solutions.
 * **🇱🇰 Community:** Creating Sinhala-language cybersecurity content to empower the local tech scene.
 
@@ -23,16 +22,15 @@ I’m a **Forward-Thinking Security Researcher** and Developer pursuing my BICT 
 | Category | Skills |
 | :--- | :--- |
 | **Cybersecurity** | Red Teaming (CRTA), Pentesting, Blue Teaming, Malware Analysis, SIEM |
-| **Development** | C, Python (Automation), Next.js, React, TypeScript, Tailwind CSS |
-| **Cloud & AI** | AWS Generative AI Practitioner, Cisco Data Center Advanced Services |
-| **Tools & OS** | Linux (Server Admin), Windows Hardening, Docker, Sanity CMS |
+| **Development** | C, Python (Automation) |
+| **Cloud & AI** | AWS Generative AI Practitioner, Cisco Data Center Foundation |
 
 ---
 
 ### 🏆 Certifications
 * **CRTA** - Certified Red Team Analyst (Cyberwarfare Labs)
 * **AWS** - Generative AI Practitioner
-* **Cisco** - Data Center Advanced Services
+* **Cisco** - Data Center Foundation
 
 ---
 
